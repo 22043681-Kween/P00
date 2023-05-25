@@ -50,7 +50,7 @@ public class CalculatorTest {
 		int a = 10;
 		int b = 2;
 		Calculator cal = new Calculator();
-		int actual = cal.multiply(a, b);
+		int actual = cal.multiple(a, b);
 		
 		int expected = 20;
 		assertEquals(actual, expected);
