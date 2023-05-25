@@ -8,7 +8,7 @@ public class Calculator {
 		return a - b;
 	}
 
-	public int multiple(int a, int b) {
+	public int multiply(int a, int b) {
 		// TODO Auto-generated method stub
 		return a * b;
 	}
